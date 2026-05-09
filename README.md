@@ -55,8 +55,5 @@ docker compose up -d
 
 
 
-## Deployment
-docker compose up -d
-
 ## Author
 Narayana KS
