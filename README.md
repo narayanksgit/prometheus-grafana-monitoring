@@ -29,6 +29,19 @@ Node Exporter → Prometheus → Grafana Dashboard
 - Grafana: http://<EC2-IP>:3000
 - Prometheus: http://<EC2-IP>:9090
 
+## Ports
+- 3000 → Grafana
+- 9090 → Prometheus
+- 9100 → Node Exporter
+
+## Architecture
+
+Node Exporter → Prometheus → Grafana
+
+##  Run Stack
+
+docker compose up -d
+  
 ## Screenshots
 
 ### Grafana Dashboard
