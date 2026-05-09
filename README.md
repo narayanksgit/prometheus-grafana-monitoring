@@ -41,6 +41,9 @@ Node Exporter → Prometheus → Grafana
 ##  Run Stack
 
 docker compose up -d
+
+<img width="1301" height="267" alt="image" src="https://github.com/user-attachments/assets/a3a33719-5941-419a-b9bd-5852056e889d" />
+
   
 ## Screenshots
 
